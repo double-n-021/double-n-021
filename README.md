@@ -122,10 +122,25 @@ interests:
 
 <p align="center">
   <a href="https://github.com/double-n-021">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=double-n-021&show_icons=true&hide_border=true&bg_color=0d1117&title_color=52b788&icon_color=40916c&text_color=c9d1d9&ring_color=52b788&count_private=true" alt="GitHub Stats"/>
+    <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/double-n-021">
+    <img height="170" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos Per Language"/>
   </a>
   <a href="https://github.com/double-n-021">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=double-n-021&layout=compact&hide_border=true&bg_color=0d1117&title_color=52b788&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+    <img height="170" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/double-n-021">
+    <img height="170" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Stats"/>
+  </a>
+  <a href="https://github.com/double-n-021">
+    <img height="170" src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time"/>
   </a>
 </p>
 
