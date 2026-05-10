@@ -192,14 +192,15 @@ Implementation & demonstration of RSA asymmetric encryption and Playfair cipher 
 </td>
 <td width="50%">
 
-#### 🌐 More Projects Coming...
+#### ☁️ [Distributed Cloud CI/CD](https://github.com/Minh-Quyen-uit/NT533)
 <p>
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
 </p>
 
-Currently working on homelab infrastructure, network automation toolkits, and cloud security projects. Stay tuned! 🔧
+CI/CD pipeline with Jenkins deploying Node.js microservices on AWS EKS (Multi-AZ), with Prometheus + Grafana monitoring stack.
 
 </td>
 </tr>
