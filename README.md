@@ -227,5 +227,14 @@ Currently working on homelab infrastructure, network automation toolkits, and cl
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
 </p>
 
+<!-- SNAKE ANIMATION -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/double-n-021/double-n-021/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/double-n-021/double-n-021/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/double-n-021/double-n-021/blob/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
 <!-- FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:52b788,20:40916c,50:2d6a4f,80:1a3a1a,100:0d1117&height=120&section=footer"/>
