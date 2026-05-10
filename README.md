@@ -122,23 +122,23 @@ interests:
 
 <p align="center">
   <a href="https://github.com/double-n-021">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=double-n-021&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=52b788&icon_color=40916c&text_color=c9d1d9&ring_color=52b788&count_private=true" alt="GitHub Stats"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=double-n-021&show_icons=true&hide_border=true&bg_color=0d1117&title_color=52b788&icon_color=40916c&text_color=c9d1d9&ring_color=52b788&count_private=true" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/double-n-021">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=double-n-021&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=52b788&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=double-n-021&layout=compact&hide_border=true&bg_color=0d1117&title_color=52b788&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/double-n-021">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=double-n-021&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=2d6a4f&ring=52b788&fire=f78166&currStreakLabel=52b788&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com/?user=double-n-021&hide_border=true&background=0d1117&stroke=2d6a4f&ring=52b788&fire=f78166&currStreakLabel=52b788&sideLabels=c9d1d9&dates=8b949e&currStreakNum=52b788&sideNums=c9d1d9" alt="GitHub Streak"/>
   </a>
 </p>
 
 <!-- ACTIVITY GRAPH -->
 <p align="center">
   <a href="https://github.com/double-n-021">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=double-n-021&theme=github-compact&hide_border=true&bg_color=0d1117&color=52b788&line=40916c&point=f78166&area=true&area_color=2d6a4f" alt="Contribution Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=double-n-021&hide_border=true&bg_color=0d1117&color=52b788&line=40916c&point=f78166&area=true&area_color=2d6a4f" alt="Contribution Graph"/>
   </a>
 </p>
 
