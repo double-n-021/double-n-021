@@ -3,9 +3,6 @@
 <!-- DevOps & Cloud Infrastructure Engineer      -->
 <!-- ========================================== -->
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,15:0b1a0b,35:1a3a1a,55:2d6a4f,80:40916c,100:52b788&height=250&section=header&text=&fontSize=1"/>
-
 <!-- HERO SECTION -->
 <div align="center">
 
@@ -122,10 +119,10 @@ interests:
 
 <p align="center">
   <a href="https://github.com/double-n-021">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=double-n-021&show_icons=true&hide_border=true&bg_color=0d1117&title_color=52b788&icon_color=40916c&text_color=c9d1d9&ring_color=52b788&count_private=true" alt="GitHub Stats"/>
+    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=double-n-021&show_icons=true&hide_border=true&bg_color=0d1117&title_color=52b788&icon_color=40916c&text_color=c9d1d9&ring_color=52b788&count_private=true" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/double-n-021">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=double-n-021&layout=compact&hide_border=true&bg_color=0d1117&title_color=52b788&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=double-n-021&layout=compact&hide_border=true&bg_color=0d1117&title_color=52b788&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
   </a>
 </p>
 
