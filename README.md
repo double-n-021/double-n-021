@@ -4,7 +4,7 @@
 <!-- ========================================== -->
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a1a,100:2d6a4f&height=180&section=header&text=double-n-021&fontSize=60&fontColor=52b788&animation=twinkling&desc=Cloud%20&%20DevOps%20Engineer&descSize=20&descColor=c9d1d9&descAlignY=70"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2d6a4f&height=150&section=header&text=double-n-021&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
 
 <!-- HERO SECTION -->
 <div align="center">
