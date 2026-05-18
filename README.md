@@ -68,7 +68,7 @@ interests:
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,terraform,ansible,kubernetes,docker&theme=dark" alt="Cloud & Infra"/>
+    <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker&theme=dark" alt="Cloud & Infra"/>
   </a>
 </p>
 </details>
@@ -78,7 +78,7 @@ interests:
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab,grafana,prometheus&theme=dark" alt="DevOps"/>
+    <img src="https://skillicons.dev/icons?i=githubactions,grafana,prometheus&theme=dark" alt="DevOps"/>
   </a>
 </p>
 </details>
@@ -88,7 +88,7 @@ interests:
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,bash,powershell,cs,go&theme=dark" alt="Languages"/>
+    <img src="https://skillicons.dev/icons?i=python,bash,powershell,cpp&theme=dark" alt="Languages"/>
   </a>
 </p>
 </details>
@@ -98,7 +98,6 @@ interests:
 <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
-  <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
@@ -109,7 +108,7 @@ interests:
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,linux,nginx&theme=dark" alt="Tools"/>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,linux,postman&theme=dark" alt="Tools"/>
   </a>
 </p>
 </details>
@@ -180,27 +179,28 @@ End-to-end MLOps platform on AWS EKS with Terraform IaC, MLflow tracking, Promet
 <tr>
 <td width="50%">
 
-#### 🔐 [CryptoDuo — RSA & Playfair](https://github.com/double-n-021/NT101.P21_CryptoDuo-RSA-Playfair)
+#### 🔐 [CIS AWS Security Audit](https://github.com/double-n-021/NT534.Q21_CIS-AWS-Security-Audit)
 <p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cryptography-FF6F00?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_CLI-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Security-E34F26?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CIS_Benchmark-1A1A2E?style=flat-square&logoColor=white"/>
 </p>
 
-Implementation & demonstration of RSA asymmetric encryption and Playfair cipher for network security coursework.
+Bash/AWS CLI audit scripts for Lambda CIS Benchmark compliance (secrets, KMS, cross-account detection). Master orchestration with **26 checks** in unified CSV reports.
 
 </td>
 <td width="50%">
 
-#### ☁️ [Distributed Cloud CI/CD](https://github.com/Minh-Quyen-uit/NT533)
+#### ☁️ [Microservices CI/CD on EKS](https://github.com/Minh-Quyen-uit/NT533)
 <p>
   <img src="https://img.shields.io/badge/AWS_EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
 </p>
 
-CI/CD pipeline with Jenkins deploying Node.js microservices on AWS EKS (Multi-AZ), with Prometheus + Grafana monitoring stack.
+Provisioned AWS EKS cluster (Multi-AZ) with K8s manifests, health probes, Prometheus annotations, and real-time Grafana monitoring.
 
 </td>
 </tr>
@@ -216,11 +216,11 @@ CI/CD pipeline with Jenkins deploying Node.js microservices on AWS EKS (Multi-AZ
   <a href="mailto:nhatnguyenmtvt@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://www.linkedin.com/in/double-n">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://www.facebook.com/doublen021">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/double.n_021/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://github.com/double-n-021">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
