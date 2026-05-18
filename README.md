@@ -68,7 +68,7 @@ interests:
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker&theme=dark" alt="Cloud & Infra"/>
+    <img src="https://skillicons.dev/icons?i=azure,aws,terraform,ansible,kubernetes,docker&theme=dark" alt="Cloud & Infra"/>
   </a>
 </p>
 </details>
@@ -108,7 +108,7 @@ interests:
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,linux,postman&theme=dark" alt="Tools"/>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark" alt="Tools"/>
   </a>
 </p>
 </details>
