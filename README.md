@@ -121,10 +121,10 @@ interests:
 
 <p align="center">
   <a href="https://github.com/double-n-021">
-    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=double-n-021&show_icons=true&hide_border=true&bg_color=0d1117&title_color=52b788&icon_color=40916c&text_color=c9d1d9&ring_color=52b788&count_private=true" alt="GitHub Stats"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=double-n-021&show_icons=true&hide_border=true&bg_color=0d1117&title_color=52b788&icon_color=40916c&text_color=c9d1d9&ring_color=52b788&count_private=true" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/double-n-021">
-    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=double-n-021&layout=compact&hide_border=true&bg_color=0d1117&title_color=52b788&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=double-n-021&layout=compact&hide_border=true&bg_color=0d1117&title_color=52b788&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
   </a>
 </p>
 
