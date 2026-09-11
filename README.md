@@ -121,10 +121,10 @@ interests:
 
 <p align="center">
   <a href="https://github.com/double-n-021">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=double-n-021&show_icons=true&hide_border=true&bg_color=0d1117&title_color=52b788&icon_color=40916c&text_color=c9d1d9&ring_color=52b788&count_private=true" alt="GitHub Stats"/>
+    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=double-n-021&show_icons=true&hide_border=true&bg_color=0d1117&title_color=52b788&icon_color=40916c&text_color=c9d1d9&ring_color=52b788&count_private=true" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/double-n-021">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=double-n-021&layout=compact&hide_border=true&bg_color=0d1117&title_color=52b788&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=double-n-021&layout=compact&hide_border=true&bg_color=0d1117&title_color=52b788&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
   </a>
 </p>
 
@@ -137,7 +137,7 @@ interests:
 <!-- ACTIVITY GRAPH -->
 <p align="center">
   <a href="https://github.com/double-n-021">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=double-n-021&hide_border=true&bg_color=0d1117&color=52b788&line=40916c&point=f78166&area=true&area_color=2d6a4f" alt="Contribution Graph"/>
+    <img src="https://readme-activity-graph.vercel.app/graph?username=double-n-021&hide_border=true&bg_color=0d1117&color=52b788&line=40916c&point=f78166&area=true&area_color=2d6a4f" alt="Contribution Graph"/>
   </a>
 </p>
 
